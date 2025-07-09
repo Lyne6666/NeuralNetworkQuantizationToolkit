@@ -1,2 +1,1 @@
-# NeuralNetworkQuantizationToolkit
-Advanced NeuralNetworkQuantizationToolkit project
+.
